@@ -5,7 +5,7 @@
 <h2>SKILLS</h2>
 <table>
   <tr>
-    <td><b>Programming Database Querying</b> with Python, SQL</td>
+    <td><b>Programming and Database Querying</b> with Python, SQL</td>
     <td><b>Exploratory Data Analysis</b> with Pandas, Matplotlib, Plotly, MS Excel</td>
   </tr>
   <tr>
