@@ -1,6 +1,6 @@
 <h1> Hello! My name is Ame <b> AVAN-NOMAYO</b>  </h1>
 
-<p>Currently studying MSc. Data Science at the University of Birmingham, while also working on the Applied Data Science program offered by WorldQuant University.</p>
+<p>Currently studying for a master's degree in Data Science at the University of Birmingham, while also working on the Applied Data Science program offered by WorldQuant University.</p>
 
 <h2>SKILLS</h2>
 <table>
