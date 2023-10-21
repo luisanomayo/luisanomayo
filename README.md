@@ -1,6 +1,7 @@
 <h1> Hello! My name is Ame <b> AVAN-NOMAYO</b>  </h1>
 
-<p>Currently studying for a master's degree in Data Science at the University of Birmingham, while also working on the Applied Data Science program offered by WorldQuant University.</p>
+<p>Holding a Master's in Data Science from the University of Birmingham Dubai, I bring hands-on experience in data analysis, data cleaning, and visualization. Through my collaborative work, I've honed skills in MS Excel, Python, SQL, and Tableau, consistently striving for data accuracy and meaningful insights. My academic and practical pursuits reflect a dedicated approach to harnessing data for informed decision-making
+</p>
 
 <h2>SKILLS</h2>
 <table>
@@ -10,7 +11,8 @@
   </tr>
   <tr>
     <td><b>Data Visualization</b> with Tableau, MS Excel</td>
-    <td><b>Predictive Modelling</b> with Sci-Kit Learn</td>
+    <td><b>Machine Learning & AI</b> with Sci-kit Learn, NLP tools like BERT, NLTK,SpaCy
+</td>
   </tr>
   <tr>
     <td><b>Delivering Insights</b> with MS Powerpoint</td>
