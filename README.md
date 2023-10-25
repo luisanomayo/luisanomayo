@@ -1,6 +1,6 @@
 <h1> Hello! My name is Ame <b> AVAN-NOMAYO</b>  </h1>
 
-<p>Hello! I'm Ame, a Data Science professional with a passion for uncovering insights from vast data landscapes. Armed with an MSc in Data Science from the University of Birmingham Dubai, I have honed my skills in Python, Scikit-Learn, and data visualization tools like Plotly & Tableau. Currently based in Dubai, I'm deeply invested in exploring AI, machine learning and social-media analytics. 
+<p>A Data Science professional with a passion for uncovering insights from vast data landscapes. Armed with an MSc in Data Science from the University of Birmingham Dubai, I have honed my skills in Python, Scikit-Learn, and data visualization tools like Plotly & Tableau. Currently based in Dubai, I'm deeply invested in exploring AI, machine learning and social-media analytics. 
 </p>
 
 <h2>SKILLS</h2>
