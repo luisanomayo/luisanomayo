@@ -1,16 +1,16 @@
-<h1> Hello! My name is Ame <b> AVAN-NOMAYO</b>  </h1>
+# Hi, I'm Ame 👋
 
-<p>A Data Science professional with a passion for uncovering insights from vast data landscapes. Armed with an MSc in Data Science from the University of Birmingham Dubai, I have honed my skills in Python, Scikit-Learn, and data visualization tools like Plotly & Tableau. Currently based in Dubai, I'm deeply invested in exploring AI, machine learning and social-media analytics. 
-</p>
+I build data pipelines, most recently a production-style Airflow pipeline (**telecom-data-pipeline**) that ingests, validates, and loads telecom data into BigQuery with incremental watermarking and automated quality checks.
 
-<h2>SKILLS</h2>
-<table>
-  <tr>
-    <td><b>Programming and Database Querying</b> with Python, SQL</td>
-    <td><b>Data Analytics</b> with Pandas, NumPy, SQL, MS Excel</td>
-  </tr>
-  <tr>
-    <td><b>Data Visualization</b> with Python (Plotly, Matplotlib), Tableau, MS Excel</td>
-    <td><b>Machine Learning & AI</b> with Sci-kit Learn, NLP tools like BERTopic, NLTK,SpaCy
-</td>
-</table>
+At Nethermind, I own the full analytics lifecycle, sourcing and connecting to data, automating ingestion, transforming and modelling it, then building the dashboards and reports that inform marketing decisions. I completed AltSchool Africa's Data Engineering diploma to build deeper expertise in the pipeline and infrastructure side of that work.
+
+## What I work with
+
+- **Pipeline orchestration & scheduling** — Airflow (DAGs, watermarking, retries)
+- **Data warehousing** — BigQuery, PostgreSQL (staging → transform → merge patterns)
+- **Cloud infrastructure** — GCP (BigQuery, GCS, Pub/Sub), Docker
+- **Languages** — Python, SQL
+
+## Featured projects
+
+See pinned repos below — `telecom-data-pipeline` for batch orchestration and incremental loading, `wikipulse` for real-time streaming ingestion.
