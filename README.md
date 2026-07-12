@@ -13,4 +13,4 @@ At Nethermind, I own the full analytics lifecycle, sourcing and connecting to da
 
 ## Featured projects
 
-See pinned repos below — `telecom-data-pipeline` for batch orchestration and incremental loading, `wikipulse` for real-time streaming ingestion.
+See pinned repos below — `datatel-incremental-elt-pipeline` for batch orchestration and incremental loading, `wikipulse-streaming-pipeline` for real-time streaming ingestion.
